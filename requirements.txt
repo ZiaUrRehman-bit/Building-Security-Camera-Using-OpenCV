@@ -1,0 +1,6 @@
+opencv_contrib_python==4.6.0.66
+opencv_contrib_python==4.7.0.68
+opencv_python==4.5.1.48
+opencv_python_headless==4.5.4.60
+~pencv_contrib_python==4.5.1.48
+~pencv_contrib_python==4.5.4.60
